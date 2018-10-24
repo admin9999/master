@@ -1,0 +1,5 @@
+com\lwq\model\Person.class
+com\lwq\dao\IndexMapper.class
+com\lwq\service\impl\IPersonServiceImpl.class
+com\lwq\controller\IndexController.class
+com\lwq\service\IPersonService.class
